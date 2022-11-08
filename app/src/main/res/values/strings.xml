@@ -38,9 +38,9 @@
     <string name="text_overline">Overline</string>
 
     <string name="button_label_title">Button</string>
-    <string name="button_left_button_label">Left</string>
+    <string name="button_left_button_label">Izquierda</string>
     <string name="button_center_button_label">Center</string>
-    <string name="button_right_button_label">Right</string>
+    <string name="button_right_button_label">Derecha</string>
 
     <string name="fab_label_title">FAB</string>
 
